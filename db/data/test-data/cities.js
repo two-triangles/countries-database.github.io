@@ -25,19 +25,19 @@ module.exports = [
   },
 
   {
-    name: "Maricaibo",
-    population: 1200000,
-    landmarks: ["Teatro Baralt", "Museo de la Gaita"],
-    denonym: "Marabin",
-    country: "Venezuela",
-    founded: 1529,
+    name: "Tijuana",
+    population: 1810645,
+    landmarks: ["Tijuana Country Club", "Museo El Trompo"],
+    denonym: "Tijuanan",
+    country: "Mexico",
+    founded: 1889,
   },
 
   {
     name: "Milan",
-    population: 4336121,
+    population: 1810645,
     landmarks: ["Teatro Baralt", "Museo de la Gaita"],
-    denonym: "Milanese",
+    denonym: "Tiajuanan",
     country: "Italy",
     founded: 600,
   },

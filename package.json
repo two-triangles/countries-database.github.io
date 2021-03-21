@@ -1,0 +1,24 @@
+{
+  "name": "countries-database.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/two-triangles/countries-database.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/two-triangles/countries-database.github.io/issues"
+  },
+  "homepage": "https://github.com/two-triangles/countries-database.github.io#readme",
+  "dependencies": {
+    "knex": "^0.95.2",
+    "pg": "^8.5.1"
+  }
+}
