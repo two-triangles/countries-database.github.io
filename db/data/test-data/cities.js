@@ -1,0 +1,128 @@
+module.exports = [
+  {
+    name: "Liverpool",
+    population: 498042,
+    landmarks: ["Liver Building", "Anglican Cathedral", "Mathew Street"],
+    denonym: "Scouser",
+    founded: 1207,
+  },
+  {
+    name: "Los Angeles",
+    population: 12150996,
+    landmarks: ["Plaza De La Revolucion", "Old Cathedral"],
+    denonym: "Angeleno",
+    country: "United States",
+    founded: 1835,
+  },
+
+  {
+    name: "Dakar",
+    population: 1146052,
+    landmarks: ["Deux Mamelles", "Plage de N'Gor"],
+    denonym: "Unknown",
+    country: "Senegal",
+    founded: 1400,
+  },
+
+  {
+    name: "Maricaibo",
+    population: 1200000,
+    landmarks: ["Teatro Baralt", "Museo de la Gaita"],
+    denonym: "Marabin",
+    country: "Venezuela",
+    founded: 1529,
+  },
+
+  {
+    name: "Milan",
+    population: 4336121,
+    landmarks: ["Teatro Baralt", "Museo de la Gaita"],
+    denonym: "Milanese",
+    country: "Italy",
+    founded: 600,
+  },
+  {
+    name: "Budapest",
+    population: 1752286,
+    landmarks: ["Széchenyi Thermal Bath", "Hungarian Parliament Building"],
+    denonym: "Budapesti",
+    country: "Hungary",
+    founded: 1873,
+  },
+
+  {
+    name: "Cape Town",
+    population: 3740026,
+    landmarks: ["Cape Malay Bo-Kaap", "Artscape Theatre Centre"],
+    denonym: "Capetonian",
+    country: "South Africa",
+    founded: 1652,
+  },
+  {
+    name: "Geneva",
+    population: 201818,
+    landmarks: ["St. Pierre Cathedral", "Russian Orthodox Church"],
+    denonym: "Genevese",
+    country: "Switzerland",
+    founded: 1652,
+  },
+  {
+    name: "Abuja",
+    population: 1235880,
+    landmarks: ["Millenium Tower", "Aso Rock"],
+    denonym: "Abujan",
+    country: "Nigeria",
+    founded: 1828,
+  },
+
+  {
+    name: "Ekurhuleni",
+    population: 3178470,
+    landmarks: ["Chris Hani Memorial", "Wall Of Remembrance"],
+    denonym: "Unknown",
+    country: "South Africa",
+    founded: 2000,
+  },
+
+  {
+    name: "Guadalajara",
+    population: 1460148,
+    landmarks: ["Teatro Degollado", "University of Guadalajara"],
+    denonym: "Guadalajarense",
+    country: "Mexico",
+    founded: 1542,
+  },
+  {
+    name: "São Paulo",
+    population: 12325232,
+    landmarks: ["São Paulo State Symphony.", "Saint Peter Theatre"],
+    denonym: "paulistano",
+    country: "Brazil",
+    founded: 1554,
+  },
+  {
+    name: "Kitwe",
+    population: 517543,
+    landmarks: ["Kafue River"],
+    denonym: "Unknown",
+    country: "Zambia",
+    founded: 1936,
+  },
+
+  {
+    name: "Tromsø",
+    population: 76974,
+    landmarks: ["Arctic Cathedral in Tromsø", "Arctic-alpine botanic garden"],
+    denonym: "Tromsøværing",
+    country: "Norway",
+    founded: 1794,
+  },
+  {
+    name: "Anchorage",
+    population: 291826,
+    landmarks: ["Alaska Zoo", "Kincaid Park"],
+    denonym: "Anchoragite",
+    country: "United States",
+    founded: 1914,
+  },
+];
